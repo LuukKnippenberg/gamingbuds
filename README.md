@@ -1,4 +1,4 @@
-# gamingbuds
+# GamingBuds
 
 # Run Angular on port 4200
 
